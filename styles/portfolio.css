@@ -133,8 +133,21 @@ main{
 }
 
 /* what i do styles */
+
 #wid-des{
     padding: 30px 150px;
+}
+
+/* skills styles */
+
+.skills-container{
+    display: flex;
+}
+
+.skill{
+    padding: 30px;
+    gap: 24px;
+
 }
 
 
